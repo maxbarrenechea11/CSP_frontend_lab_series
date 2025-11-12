@@ -54,13 +54,9 @@ switch (language) {
 let stock = "APPL"
 switch(stock) {
     case "APPL":
-        console.log("Apple Inc.");
-        break;
     case "TSLA":
-        console.log("Tesla, Inc.");
-        break;
     case "NVDA":
-        console.log("NVIDIA Corporation");
+        console.log("The Industry is Technology");
         break;
     case "XOM":
         console.log("Exxon Mobil Corporation");
